@@ -26,7 +26,7 @@ SECRET_KEY = '6mrlx9odepo0$-i%$m#-i1hr%gxt2631&(0z8+5_)@4-0nx^d('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['wvdevtest.pythonanywhere.com',]
 
 
 # Application definition
